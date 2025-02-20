@@ -7,19 +7,19 @@
         "name": "Lionel Messi",
         "value": 25,
         "team": "Inter Miami",
-        "image": "/placeholder.svg?height=100&width=100"
+        "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/cote.jpg?height=100&width=100"
       },
       {
         "name": "Cristiano Ronaldo",
         "value": 23,
         "team": "Al Nassr",
-        "image": "/placeholder.svg?height=100&width=100"
+        "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/marcio.jpg?height=100&width=100"
       },
       {
         "name": "Erling Haaland",
         "value": 22,
         "team": "Manchester City",
-        "image": "/placeholder.svg?height=100&width=100"
+        "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/nathan.jpg?height=100&width=100"
       }
     ]
   },
