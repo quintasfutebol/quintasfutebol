@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Top Scorers",
+    "icon": "trophy",
+    "players": [
+      {
+        "name": "Lionel Messi",
+        "value": 25,
+        "team": "Inter Miami",
+        "image": "/placeholder.svg?height=100&width=100"
+      },
+      {
+        "name": "Cristiano Ronaldo",
+        "value": 23,
+        "team": "Al Nassr",
+        "image": "/placeholder.svg?height=100&width=100"
+      },
+      {
+        "name": "Erling Haaland",
+        "value": 22,
+        "team": "Manchester City",
+        "image": "/placeholder.svg?height=100&width=100"
+      }
+    ]
+  },
+  {
+    "title": "Least Goals Conceded (Goalkeepers)",
+    "icon": "shield",
+    "players": [
+      {
+        "name": "Alisson",
+        "value": 15,
+        "team": "Liverpool",
+        "image": "/placeholder.svg?height=100&width=100"
+      },
+      {
+        "name": "Ederson",
+        "value": 17,
+        "team": "Manchester City",
+        "image": "/placeholder.svg?height=100&width=100"
+      },
+      {
+        "name": "Jan Oblak",
+        "value": 18,
+        "team": "Atletico Madrid",
+        "image": "/placeholder.svg?height=100&width=100"
+      }
+    ]
+  },
+  {
+    "title": "Most Wins",
+    "icon": "star",
+    "players": [
+      {
+        "name": "Manchester City",
+        "value": 28,
+        "team": "Premier League",
+        "image": "/placeholder.svg?height=100&width=100"
+      },
+      {
+        "name": "Bayern Munich",
+        "value": 26,
+        "team": "Bundesliga",
+        "image": "/placeholder.svg?height=100&width=100"
+      },
+      {
+        "name": "Real Madrid",
+        "value": 25,
+        "team": "La Liga",
+        "image": "/placeholder.svg?height=100&width=100"
+      }
+    ]
+  },
+  {
+    "title": "Least Fouls",
+    "icon": "award",
+    "players": [
+      {
+        "name": "N'Golo Kanté",
+        "value": 10,
+        "team": "Chelsea",
+        "image": "/placeholder.svg?height=100&width=100"
+      },
+      {
+        "name": "Thiago Alcântara",
+        "value": 12,
+        "team": "Liverpool",
+        "image": "/placeholder.svg?height=100&width=100"
+      },
+      {
+        "name": "Joshua Kimmich",
+        "value": 15,
+        "team": "Bayern Munich",
+        "image": "/placeholder.svg?height=100&width=100"
+      }
+    ]
+  }
+]
