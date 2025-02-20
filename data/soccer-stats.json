@@ -16,7 +16,7 @@
     ]
   },
   {
-    "title": "Menos Gols Sofridos (Goleiros)",
+    "title": "Menos gols sofridos",
     "icon": "shield",
     "players": [
       {
@@ -31,9 +31,9 @@
     "icon": "star",
     "players": [
       {
-        "name": "Manchester City",
-        "value": 28,        
-        "image": "/placeholder.svg?height=100&width=100"
+        "name": "Cote",
+        "value": 1,
+        "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/cote.jpg?height=100&width=100"
       }
     ]
   },
@@ -43,7 +43,7 @@
     "players": [
       {
         "name": "Cote",
-        "value": 2,
+        "value": 1,
         "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/cote.jpg?height=100&width=100"
       }
     ]
