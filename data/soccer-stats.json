@@ -1,6 +1,6 @@
 [
   {
-    "title": "Maiores Artilheiros",
+    "title": "Artilheiros",
     "icon": "trophy",
     "players": [
       {
@@ -24,7 +24,7 @@
     ]
   },
   {
-    "title": "Menos gols sofridos",
+    "title": "Gols sofridos",
     "icon": "shield",
     "players": [
       {
