@@ -5,13 +5,21 @@
     "players": [
       {
         "name": "Marcio",
-        "value": 4,        
+        "value": 4,
+        "matches": 1,
         "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/marcio.jpg?height=100&width=100"
       },
       {
         "name": "Nathan",
-        "value": 1,        
+        "value": 3,
+        "matches": 2,
         "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/nathan.jpg?height=100&width=100"
+      },
+      {
+        "name": "Valde",
+        "value": 2,
+        "matches": 2,
+        "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/valde.jpg?height=100&width=100"
       }
     ]
   },
@@ -21,8 +29,24 @@
     "players": [
       {
         "name": "Edionei",
-        "value": 1,        
+        "value": 1,
+        "matches": 1,
+        "average": 1.0,
         "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/edionei.jpg?height=100&width=100"
+      },
+      {
+        "name": "Diogo",
+        "value": 7,
+        "matches": 1,
+        "average": 7.0,
+        "image": ""
+      },
+      {
+        "name": "Zanella",
+        "value": 15,
+        "matches": 2,
+        "average": 7.5,
+        "image": ""
       }
     ]
   },
@@ -33,6 +57,7 @@
       {
         "name": "Cote",
         "value": 1,
+        "matches": 1,
         "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/cote.jpg?height=100&width=100"
       }
     ]
