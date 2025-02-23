@@ -56,9 +56,33 @@
     "players": [
       {
         "name": "Cote",
-        "value": 1,
-        "matches": 1,
+        "value": 2,
+        "matches": 2,
         "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/cote.jpg?height=100&width=100"
+      },
+      {
+        "name": "Danilo",
+        "value": 2,
+        "matches": 2,
+        "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/danilo.jpg?height=100&width=100"
+      },
+      {
+        "name": "Nathan",
+        "value": 2,
+        "matches": 2,
+        "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/nathan.jpg?height=100&width=100"
+      },
+      {
+        "name": "Valde",
+        "value": 2,
+        "matches": 2,
+        "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/valde.jpg?height=100&width=100"
+      },
+      {
+        "name": "Zanella",
+        "value": 2,
+        "matches": 2,
+        "image": ""
       }
     ]
   },
@@ -67,9 +91,9 @@
     "icon": "award",
     "players": [
       {
-        "name": "Cote",
-        "value": 1,
-        "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/cote.jpg?height=100&width=100"
+        "name": "???",
+        "value": 2,
+        "image": ""
       }
     ]
   }
