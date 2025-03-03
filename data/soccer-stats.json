@@ -50,9 +50,7 @@
         "value": 1,
         "matches": 2,
         "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/ricardinho.jpg?height=100&width=100"
-      },
-      
-
+      }
     ]
   },
   {
@@ -122,12 +120,13 @@
         "value": 1,
         "matches": 1,
         "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/anderson.jpg?height=100&width=100"
-      },{
+      },
+      {
         "name": "Valde",
         "value": 1,
         "matches": 3,
         "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/valde.jpg?height=100&width=100"
-      },
+      }
     ]
   },
   {
@@ -153,7 +152,7 @@
         "name": "Nathan",
         "value": 3,
         "image": "https://github.com/quintasfutebol/quintasfutebol/blob/main/images/nathan.jpg?height=100&width=100"
-      },
+      }
     ]
   }
 ]
